@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akirachang
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data
 - 🌱 I’m currently learning in CentraleSupelec
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: akira.chang1113@gmail.com
