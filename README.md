@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Akirachang
-- 👀 I’m interested in Data
-- 🌱 I’m currently an intern in Arianee
+- 🐯 Hi, I’m @Akirachang
+- 👾 I’m interested in Data
+- 👨🏻‍💻 I’m currently an intern in Arianee
 - ✉️ How to reach me: akira.chang1113@gmail.com
 
 <!---
