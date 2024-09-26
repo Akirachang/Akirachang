@@ -1,6 +1,6 @@
 - 🐯 Hi, I’m @Akirachang
 - 👾 I’m interested in Data
-- 👨🏻‍💻 Former data scientist in Arianee
+- 👨🏻‍💻 Product design engineer in Kog.ai
 - ✉️ How to reach me: akira.shengchang@gmail.com
 
 <!---
