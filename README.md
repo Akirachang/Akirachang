@@ -31,9 +31,3 @@ Currently an AI Product Engineer at [Kog](https://kog.ai) in Paris, where I work
 | **Data**          | Dagster • Airbyte • dbt • DuckDB • Airflow                                              |
 | **Cloud**         | GCP • Azure                                                                             |
 | **Languages**     | Python • TypeScript • C++ • Java                                                        |
-
-## 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/akirashengchang/)
-- 📧 [Email](akira.shengchang@gmail.com)
-- 🌐 [Website](https://akira-chang.vercel.app/)
