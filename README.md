@@ -2,10 +2,10 @@
 
 # Hi, I'm Akira (Sheng) Chang 🐯
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akirashengchang/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akira.shengchang@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://akira-chang.vercel.app/)
-![Location](https://img.shields.io/badge/Paris,_France-0055A4?style=for-the-badge&logo=google-maps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/akirashengchang/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:akira.shengchang@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge)](https://akira-chang.vercel.app/)
+![Location](https://img.shields.io/badge/📍_Paris,_France-FF6B6B?style=for-the-badge)
 
 </div>
 
