@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akirashengchang/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akira.shengchang@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://akira-chang.vercel.app/)
-![Location](https://img.shields.io/badge/Paris,_France-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://akira-chang.vercel.app/)
+![Location](https://img.shields.io/badge/Paris,_France-0055A4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 </div>
 
