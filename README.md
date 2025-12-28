@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="assets/flareon.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-right: 6px;">Hi, I'm Akira (Sheng) Chang <img src="assets/pikachu.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-left: 5px;"></h1>
+<h1><img src="assets/flareon.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-right: 6px;">Hi, I'm Akira Chang <img src="assets/pikachu.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-left: 5px;"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/akirashengchang/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:akira.shengchang@gmail.com)
@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Currently an AI Product Engineer @Kog in Paris, where I work across the full stack, from GPU inference pipelines to building AI driven products. I blend ML infrastructure and product thinking to ship intelligent creative tools that feel effortless to use.
+Hi! I'm Akira (Sheng) Chang!👋 Currently an AI Product Engineer @Kog in Paris, where I work across the full stack, from GPU inference pipelines to building AI driven products. I blend ML infrastructure and product thinking to ship intelligent creative tools that feel effortless to use.
 
 **What I'm working on**
 
