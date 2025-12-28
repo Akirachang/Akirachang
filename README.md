@@ -1,18 +1,39 @@
+<div align="center">
+
 # Hi, I'm Akira (Sheng) Chang 🐯
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akirashengchang/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akira.shengchang@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://akira-chang.vercel.app/)
+![Location](https://img.shields.io/badge/Paris,_France-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)
+
+</div>
 
 ## 👨🏻‍💻 About Me
 
-I'm an AI/ML/Data Engineer & AI Product Engineer passionate about GenAI, LLMs, and building AI-driven products people actually want to use. I blend ML infrastructure and product thinking to ship intelligent creative tools—from diffusion pipelines and GPU inference to user-ready experiences.
+Currently an AI Product Engineer at [Kog](https://kog.ai) in Paris, where I work across the full stack, from GPU inference pipelines to building AI driven products. I blend ML infrastructure and product thinking to ship intelligent creative tools that feel effortless to use.
 
-- 🔭 AI Product Engineer @ Kog (Paris, France)
+**What I'm working on**
+
 - 💡 Building AI-driven products, thinking creatively from user needs
-- 🛠️ Background in AI/ML/Data Engineering
-- 🎨 End-to-end: Figma designs → full-stack development → AI engineering
+- 🔧 Diffusion pipelines, LLM applications, and GPU-optimized inference
+- 🧪 Prototyping applied AI use cases that blend generative AI with intuitive UX
+- 🎨 End-to-end product development: Figma → full-stack → AI systems
 
 ## 📟 Tech Stack
 
-| Domain               | Stack                                                                      |
-| -------------------- | -------------------------------------------------------------------------- |
-| **AI/ML**            | LLM • Diffusion • Transformers • LangGraph • LangChain • NVIDIA A100 • VLM |
-| **Data Engineering** | Dagster • Airbyte • dbt • DuckDB • PostgreSQL • Looker Studio • Airflow    |
-| **Languages**        | Python • TypeScript • C++                                                  |
+| Domain            | Stack                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| **AI/ML**         | PyTorch • Hugging Face • Diffusion models • Transformers • VLMs • LangGraph • LangChain |
+| **GenAI & Infra** | OpenAI • Anthropic • Modal • Chroma • NVIDIA A100                                       |
+| **Backend**       | FastAPI • Pydantic • Node.js • PostgreSQL • Docker                                      |
+| **Frontend**      | Next.js • React • TypeScript                                                            |
+| **Data**          | Dagster • Airbyte • dbt • DuckDB • Airflow                                              |
+| **Cloud**         | GCP • Azure                                                                             |
+| **Languages**     | Python • TypeScript • C++ • Java                                                        |
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/akirashengchang/)
+- 📧 [Email](akira.shengchang@gmail.com)
+- 🌐 [Website](https://akira-chang.vercel.app/)
