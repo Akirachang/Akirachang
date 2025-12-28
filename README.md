@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Currently an AI Product Engineer at [Kog](https://kog.ai) in Paris, where I work across the full stack, from GPU inference pipelines to building AI driven products. I blend ML infrastructure and product thinking to ship intelligent creative tools that feel effortless to use.
+Currently an AI Product Engineer @Kog in Paris, where I work across the full stack, from GPU inference pipelines to building AI driven products. I blend ML infrastructure and product thinking to ship intelligent creative tools that feel effortless to use.
 
 **What I'm working on**
 
