@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="assets/flareon.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-right: 6px;">Hi, I'm Akira Chang <img src="assets/pikachu.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-left: 5px;"></h1>
+<h1><img src="assets/flareon.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-right: 6px;">Hello world, I'm Akira Chang <img src="assets/pikachu.gif" width="50" style="vertical-align: -0.2em; display: inline-block; margin-left: 5px;"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/akirashengchang/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:akira.shengchang@gmail.com)
