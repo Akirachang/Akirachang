@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/akirashengchang/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:akira.shengchang@gmail.com)
 [![Website](https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge)](https://akira-chang.vercel.app/)
-![Location](https://img.shields.io/badge/📍_Paris,_France-FF6B6B?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Paris,_France-A020F0?style=for-the-badge)
 
 </div>
 
