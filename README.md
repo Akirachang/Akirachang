@@ -24,7 +24,7 @@ Hi! I'm Akira (Sheng) Chang!👋 Currently an AI Product Engineer @Kog in Paris,
 
 | Domain            | Stack                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------- |
-| **AI/ML**         | PyTorch • Hugging Face • Diffusion models • Transformers • VLMs • LangGraph • LangChain |
+| **AI/ML**         | PyTorch • LangGraph • LangChain • Diffusion models • Transformers • VLMs • Hugging Face|
 | **GenAI & Infra** | OpenAI • Anthropic • Modal • Chroma • NVIDIA A100                                       |
 | **Backend**       | FastAPI • Pydantic • Node.js • PostgreSQL • Docker                                      |
 | **Frontend**      | Next.js • React • TypeScript                                                            |
