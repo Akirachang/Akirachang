@@ -18,7 +18,7 @@ Hi! I'm Akira (Sheng) Chang!👋 An AI Engineer based in Paris, where I work acr
 - 💡 Building AI-driven products, thinking creatively from user needs
 - 🔧 Diffusion pipelines, LLM applications, and GPU-optimized inference
 - 🧪 Prototyping applied AI use cases that blend generative AI with intuitive UX
-- 🎨 End-to-end product development: Figma → full-stack → AI systems
+- 🎨 End-to-end product development: Idea → full-stack → AI systems
 
 ## 📟 Tech Stack
 
