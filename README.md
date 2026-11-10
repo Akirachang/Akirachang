@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Hi! I'm Akira (Sheng) Chang!👋 An AI Engineer based in Paris, where I work across the full stack, from GPU inference pipelines to building AI driven products. I blend ML infrastructure and product thinking to ship intelligent creative tools that feel effortless to use.
+Hi! I'm Akira (Sheng) Chang!👋 Lead AI Engineer based in Paris, where I work across the full stack, from GPU inference pipelines, Applied AI Research to building AI driven products.
 
 **What I'm working on**
 
